@@ -8,6 +8,6 @@ public class multiplyTester{
     @Test
     public void multiplyTest1(){
         int ans = Multiply.mult(2, 3);
-        assertEquals(5, ans);
+        assertEquals(6, ans);
     }
 }
